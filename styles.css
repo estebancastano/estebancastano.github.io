@@ -4,7 +4,7 @@
 
 }
 body{
-    background: rgb(33, 122, 224);
+    background: rgb(87, 142, 204);
     font-family: sans-serif;
     font-size: 1.3rem;
     display: block;
@@ -52,8 +52,14 @@ body{
     color: #000;
   }
 
-  a:hover{
+  a:hover .fa-linkedin{
     opacity: 0.6;
+    color: #0e76a8;
+  }
+
+  a:hover .fa-github{
+    opacity: 0.6;
+    color: aliceblue;
   }
 
   .img{
